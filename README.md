@@ -8,6 +8,7 @@ I'm a teacher at the **Rotterdam University of Applied Sciences**, but currently
 - :books: [Employee space](https://med.hosted.hr.nl/goelr)
 - Social media profiles can be found in the sidebar.
 
+---
 
 #### Public GitHub pages with private repositories:
 - :video_game: [HR PRG04 Weird Googly Eyes game (in ExcaliburJS)](https://leabits.github.io/PRG04-Googly-Eyes/)
